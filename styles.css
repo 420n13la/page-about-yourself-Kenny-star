@@ -4,7 +4,7 @@
 
 body {
   background-color: lightblue;
-  border;
+  border: 5px solid green;
   
 }
 
@@ -12,19 +12,19 @@ h1 {
   color: red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
-  border;
+  border: 5px solid red;
 }
 
 h2 {
   color: blue;
   text-align: left;
-  border;
+  border: 5px solid blue;
   
 }
 
 p {
   font-size: 20px;
-  border;
+  border: 5px solid black;
   
   img{
     width: 20px;
