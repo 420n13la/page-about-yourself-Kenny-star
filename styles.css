@@ -4,20 +4,26 @@
 
 body {
   background-color: lightblue;
+  border: 100%;
+  
 }
 
 h1 {
   color: red;
   text-align: center;
   font-family: 'Manjari', sans-serif;
+  border: 100%;
 }
 
 h2 {
   color: blue;
   text-align: left;
+  border: 100%;
+  
 }
 
 p {
   font-size: 20px;
+  border: 100%;
 }
 </style>
